@@ -86,11 +86,28 @@ margin: 16px 0 32px;
     align-items: center;
     padding: 64px 32px;
     gap: 100px;
-background: #F9FBFF;
+    background: #F9FBFF;
 /* company color */
 
-border: 2px solid #155EEF;
-border-radius: 8px;
-margin: 16px 0 32px;
+    border: 2px solid #155EEF;
+    border-radius: 8px;
+    margin: 16px 0 32px;
+}
+
+.zin h5 {
+    font-weight: 600;
+    font-size: 40px;
+    color: #041330;
+    margin-bottom: 24px;
+
+}
+
+.zin p{
+    font-size: 24px;
+    color: #2E3A53;
+    margin-bottom: 280px;
+    font-weight: 400;
+    text-align: justify;
+
 }
 
