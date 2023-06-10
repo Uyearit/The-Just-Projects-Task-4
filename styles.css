@@ -72,13 +72,16 @@ margin: 16px 0 32px;
 }
 
 .projects{
-    font-weight: 700;
-    font-size: 16px;
-    color: #FFFFFF;
-    padding: 10px 16px;
-    background: #155EEF;
-    border-radius: 8px;
-    border: 1px solid #155EEF;
+      margin-top: 20px;
+      background: #155EEF;
+      border-radius: 8px;
+      border-color: #155EEF;
+      padding: 10px 42px;
+      font-family: 'Manrope';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      color: #FFFFFF;
 }
 
 
