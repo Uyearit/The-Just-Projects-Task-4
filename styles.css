@@ -4,20 +4,21 @@
     box-sizing: border-box;
 }
 
-.bimb {
+.logo {
     display: flex;
     justify-content: space-between;
     align-items: center;
     border: 2px solid #155EEF;
     border-radius: 8px;
     Padding: 8px 32px;
+    font-family: Halant;
 }
 body {
     padding: 8px 64px;
 
 }
 
-.tags {
+.nav {
     display: flex;
     gap: 97px;
     align-items: center;
@@ -33,13 +34,13 @@ body {
 }
 
 
-.mag {
+.hero {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 64px 32px;
     gap: 100px;
-background: #F9FBFF;
+    background: #F9FBFF;
 /* company color */
 
 border: 2px solid #155EEF;
@@ -67,6 +68,7 @@ margin: 16px 0 32px;
     color: #2E3A53;
     margin-bottom: 42px;
     font-weight: 500;
+
 }
 
 .projects{
@@ -84,14 +86,22 @@ margin: 16px 0 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 64px 32px;
-    gap: 100px;
+    padding: 5% 2%;
     background: #F9FBFF;
 /* company color */
 
     border: 2px solid #155EEF;
     border-radius: 8px;
-    margin: 16px 0 32px;
+    margin-bottom: 2%;
+
+}
+
+.pop {
+    width: 45%;
+}
+
+.pop p{
+    width: 80%;
 }
 
 .zin h5 {
@@ -105,9 +115,27 @@ margin: 16px 0 32px;
 .zin p{
     font-size: 24px;
     color: #2E3A53;
-    margin-bottom: 280px;
+    /* margin-bottom: 280px; */
     font-weight: 400;
     text-align: justify;
 
 }
 
+
+footer{
+       display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 32px;
+    gap: 100px;
+    background: #F9FBFF;
+    border: 2px solid #155EEF;
+    border-radius: 8px;
+    padding: 8px 32px;
+}
+
+.social {
+    display: flex;
+    gap: 30%;
+}
+    
