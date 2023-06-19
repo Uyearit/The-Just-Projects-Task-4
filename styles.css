@@ -164,46 +164,39 @@ margin: 0 64px;
 }
 
 .collab {
-    display: flex;
-    justify-content: space-between;
-    font-family: 'Manrope';
-    box-sizing: border-box;
-    padding: 5%;
-    align-items: center;
+      align-items: center;
       border: 2px solid #155EEF;
       border-radius: 8px;
       margin:32px 64px;
-    
+      background-color: #F9FBFF;
+      gap: 100px;
+      padding: 5%;
+      font-size: 24px;
+      font-family: 'Manrope';
 }
 
-.collab .profile{
+
+.collab .profile {
     font-family: 'Halant';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 40px;
-    color: #041330;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
 }
 
-.collab .expertise{
-
-    font-family: 'Manrope';
-    font-style: normal;
-    font-weight: 400px;
-    font-size: 24px;
-    color: #2E3A53;
-    font-weight: 400;
-    justify-content: center;
+.collab .impact{
+    
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+box-sizing: border-box;
+color: #2E3A53;
 }
 
-.hero-swag .Photo{
-    box-sizing: border-box;
-    border-color: #155EEF;
-    border-style: solid;
-    border-width: 0px 0px;
-    width: 100%;
-    position: absolute;
-}
+.hero-swag .Photo {
+    width: 514 486px;
 
+}
 
 
 .footer{
